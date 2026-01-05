@@ -82,13 +82,15 @@ Ping de um dispositivo privado.
 
 **Qual é a sintaxe para o ping 10.10.10.10**
 
-<img width="923" height="453" alt="{D14F7811-05DB-425F-9858-4D4A87143367}" src="https://github.com/user-attachments/assets/7bbd2ee6-8767-437a-8719-2535412d936f" />
+<img width="920" height="415" alt="{783121B4-2B66-4503-B9EC-BC1950C0EC66}" src="https://github.com/user-attachments/assets/26ed5493-2839-421e-97fa-43a7c4b39a51" />
+
 
 **Resposta**: ping 10.10.10.10
 
 **Que bandeira você recebe quando você ping 8.8.8.8?**
 
-<img width="639" height="235" alt="{A3C161AA-858A-4158-96FA-20C29C7AFBD5}" src="https://github.com/user-attachments/assets/ac5b70b5-6a6d-46ff-8584-e1bd18687453" />
+<img width="924" height="507" alt="{BC77FD21-DA19-4D78-977A-AFC6642E4807}" src="https://github.com/user-attachments/assets/9ffbd111-0a43-4521-ba0a-b7e1914af1a7" />
+
 
 **Resposta**: THM{I_PINGED_THE_SERVER}
 
