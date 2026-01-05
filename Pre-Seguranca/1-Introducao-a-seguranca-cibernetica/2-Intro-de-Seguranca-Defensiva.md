@@ -67,3 +67,51 @@
 
 - A análise estática funciona inspecionando o programa malicioso sem executá-lo. Isso geralmente requer um sólido conhecimento da linguagem de montagem (o conjunto de instruções do processador, ou seja, as instruções fundamentais do computador).
 - A análise dinâmica funciona executando o malware em um ambiente controlado e monitorando suas atividades. Ele permite que você observe como o malware se comporta ao ser executado.
+
+# Exemplo prático de segurança defensiva (continuação na tarefa): 
+
+**cenario:** irei me passar por um analista SOC, estarei responsavel a proteger um banco. Ultilizarei uma ferramenta de Gerenciamento  de informações e eventos de segurança (SIEM).
+
+
+# tarefas:
+
+**1:** 
+
+**Qual equipe se concentra na segurança defensiva?**
+**Resposta:** Blue Team
+
+**2:** 
+
+**O que você chamaria de uma equipe de profissionais de segurança cibernética que monitora uma rede e seus sistemas para eventos maliciosos?**
+**Resposta:** Security Operations Center
+
+**O que representa o DFIR?** 
+**Resposta:** Digital Forensics and Incident Response 
+
+**Que tipo de malware exige que o usuário pague dinheiro para recuperar o acesso aos seus arquivos?** 
+**Resposta:** ransomware
+
+**3 Pratica (continuação exemplo pratico):** 
+
+<img width="905" height="936" alt="{E950A676-F357-4B48-97DD-A1609E884EC6}" src="https://github.com/user-attachments/assets/6aa3e4ba-44ee-48fa-836c-171d4fa0a426" />
+<img width="923" height="921" alt="{3DF133F4-2D55-430F-BF9F-0547DA02E64A}" src="https://github.com/user-attachments/assets/deea9b2d-9cd8-4600-b316-a1c100c4cfc2" />
+<img width="931" height="920" alt="{32588CFF-5669-4DEF-9DDF-6AC9F57E3FA2}" src="https://github.com/user-attachments/assets/b085150f-2735-4b3b-80dc-c6125c762dd7" />
+<img width="893" height="652" alt="{CEAB11B7-4932-4762-8553-4D28F4D941C5}" src="https://github.com/user-attachments/assets/afb44110-03eb-4ff2-95b3-cb02967bb4c9" />
+<img width="854" height="855" alt="{79AD6296-577D-4844-A921-E033EB4A0576}" src="https://github.com/user-attachments/assets/cdbbc694-a055-4b91-8a22-d7a86f801664" />
+<img width="913" height="911" alt="{B6B09F25-372E-45A9-A9B6-D9C894C42871}" src="https://github.com/user-attachments/assets/306b9f44-998a-43b4-88cb-fc13aeb3564e" />
+**Resposta:** THM{THREAT-BLOCKED} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
