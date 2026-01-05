@@ -104,11 +104,11 @@
 
 # O que aprendi: 
 
-- SOC e uma equeipe de segurança cibernetica responsaveis no monitoramento de rede e dos sisstemas para detectar eventos maliciosos.
-- Inteligência de Ameaça, coleta informaçõe para lidar melhor contra adversario.
-- DFIR investiga crtimes e eestabelece fatos (crimes ralacioonados a computação) 
-- Malware software malicioso com diversos tipos (tipos citados em atividades acima). 
-- Pratica de uma ferramenta de simulação de uma defesa realizada por  um SOC.
+- O SOC é uma equipe de segurança cibernética responsável pelo monitoramento da rede e dos sistemas para detectar eventos maliciosos.
+- Inteligência de Ameaça envolve a coleta de informações para lidar melhor com adversários.
+- DFIR investiga crimes e estabelece fatos relacionados à computação.
+- Malware é um software malicioso que possui diferentes tipos.
+- Prática com uma ferramenta que simula a defesa realizada por um SOC.
 
 # Observação:
 
