@@ -22,16 +22,15 @@
 
 **Imagens com explicação**:
 
-<img width="1332" height="429" alt="{56FECE96-415C-4441-A580-A4C6E1AF2E18}" src="https://github.com/user-attachments/assets/b6b44554-d9ee-4db7-9dfa-69c17375bb2a" /> 
-<img width="1213" height="525" alt="{5D1BEF74-D9CE-469F-B1D4-6EE2628D5B76}" src="https://github.com/user-attachments/assets/217815b3-53e4-4851-aecc-f953f7c19476" /> 
-<img width="1269" height="589" alt="{6E10A754-9E00-4165-8697-999181E3A51C}" src="https://github.com/user-attachments/assets/ebb4c14c-da6b-49be-9cbe-e22aa419e2c5" />
+<img width="1276" height="680" alt="{FC0D43FC-B624-4F1D-8124-3D557C5895A6}" src="https://github.com/user-attachments/assets/f393da84-7ea7-400c-8425-1b622cb5e1e2" />
+<img width="1246" height="779" alt="{1CCE0701-3659-4433-AFAF-4A19F03F4098}" src="https://github.com/user-attachments/assets/5a0889a7-7e6e-4a77-aba1-2f5c180a462b" />
+<img width="1255" height="796" alt="{1E13369C-6EFE-4F2C-9A2D-D987D86B88DD}" src="https://github.com/user-attachments/assets/b56fc40a-92fc-413d-8ee7-fe677e0418ef" />
 
 ## Ping (ICMP):
 
 - Ferramenta de rede
 - Determina desempenho de uma conexão
 
-<img width="601" height="277" alt="{A6E5AA71-8E81-4743-9727-1D3D0D4EE51B}" src="https://github.com/user-attachments/assets/6d03417f-840d-429b-9a10-25487519441d" /> 
 Ping de um dispositivo privado.
 
 ## Tarefas:
@@ -61,6 +60,19 @@ Ping de um dispositivo privado.
 **Quantas seções (em dígitos) tem um endereço IPv4?**
 
 **Resposta**: 4
+
+**O que significa o termo "MAC"?** 
+
+**Resposta**: Media Access Control
+
+**Implante o laboratório interativo usando o botão "Ver Site" e falsifique seu endereço MAC para acessar o site. O que é a bandeira?**
+
+**print atividade:**
+
+<img width="868" height="859" alt="{99D937B7-306B-4A97-B055-FCB86FF0FC1B}" src="https://github.com/user-attachments/assets/ff554f28-b9a7-4077-a84b-32cae2c21bde" />
+<img width="927" height="865" alt="{D6428CFC-4606-4388-95CD-E4DF1C862173}" src="https://github.com/user-attachments/assets/c0279151-0861-4bd1-bf40-8484ad8e384a" />
+
+**Resposta**: THM{YOU_GOT_ON_TRYHACKME}
 
 **Tarefa 4**:
 
