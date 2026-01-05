@@ -13,4 +13,12 @@
 - Configurar dispositivos de segurança preventiva: firewall e sistemas de prevenção de intrusão (IPS) são componentes críticos da segurança preventiva. Firewalls controlam o tráfego de rede que pode entrar e o que pode deixar o sistema ou a rede. O IPS bloqueia qualquer tráfego de rede que corresponda às regras atuais e assinaturas de ataque.
 - Configurar dispositivos de registro e monitoramento: o registro e o monitoramento de rede adequados são essenciais para detectar atividades e intrusões maliciosas. Se um novo dispositivo não autorizado aparecer em nossa rede, devemos ser capazes de detectá-lo.
 
+**Há muito mais na segurança defensiva. Além do acima exposto, abordaremos também os seguintes tópicos relacionados:**
+
+- Centro de Operações de Segurança (SOC).
+- Inteligência de Ameaça.
+- Forense Digital e Resposta a Incidentes (DFIR).
+- Análise de Malware.
+
+
 
