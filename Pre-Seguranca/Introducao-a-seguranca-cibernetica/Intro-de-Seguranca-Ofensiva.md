@@ -15,11 +15,16 @@ Qual das opções a seguir representa melhor o processo em que você simula as a
 - site FakeBank 
 
 # pratica: 
-**Print de passsos**: 
+**Print de passsos**:
+
 <img width="822" height="652" alt="{55B4E9D3-7B61-4F0B-9F5E-C243917C2890}" src="https://github.com/user-attachments/assets/8ffb9c79-d2ff-4f54-8762-92c7a734e00f" />
+
 <img width="875" height="925" alt="{1E7E1DA2-9B3A-44C2-9364-CF470094B561}" src="https://github.com/user-attachments/assets/434f98a5-0b1e-46c3-a089-e43b75fef2aa" /> 
+
 <img width="807" height="830" alt="{B1BF9F80-E332-4963-8E32-90C34CE7F0BA}" src="https://github.com/user-attachments/assets/2ad527b2-a202-4a8e-8c69-c41878570844" /> 
+
 <img width="867" height="935" alt="{C9873470-D81C-4767-B1A2-FC3112D2349C}" src="https://github.com/user-attachments/assets/f6c29431-a254-40bf-8af1-b0b56a5a0af3" /> 
+
 Finalizando a tarefa 2 tive a resposta da questão 
 
 **Resposta**: BANK-HACKED 
