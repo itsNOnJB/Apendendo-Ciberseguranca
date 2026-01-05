@@ -102,8 +102,17 @@
 
 **Resposta:** THM{THREAT-BLOCKED} 
 
+# O que aprendi: 
 
+- SOC e uma equeipe de segurança cibernetica responsaveis no monitoramento de rede e dos sisstemas para detectar eventos maliciosos.
+- Inteligência de Ameaça, coleta informaçõe para lidar melhor contra adversario.
+- DFIR investiga crtimes e eestabelece fatos (crimes ralacioonados a computação) 
+- Malware software malicioso com diversos tipos (tipos citados em atividades acima). 
+- Pratica de uma ferramenta de simulação de uma defesa realizada por  um SOC.
 
+# Observação:
+
+Este tema já possuía muitos conceitos importantes. Cada tópico explicou um pouco sobre sua função e atuação, o que me ajudou a entender melhor o papel do Blue Team. Como objetivo futuro é ser pentester, compreender como a defesa funciona é fundamental para o meu desenvolvimento.
 
 
 
