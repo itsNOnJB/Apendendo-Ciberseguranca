@@ -98,7 +98,7 @@
 <img width="931" height="920" alt="{32588CFF-5669-4DEF-9DDF-6AC9F57E3FA2}" src="https://github.com/user-attachments/assets/b085150f-2735-4b3b-80dc-c6125c762dd7" />
 <img width="893" height="652" alt="{CEAB11B7-4932-4762-8553-4D28F4D941C5}" src="https://github.com/user-attachments/assets/afb44110-03eb-4ff2-95b3-cb02967bb4c9" />
 <img width="854" height="855" alt="{79AD6296-577D-4844-A921-E033EB4A0576}" src="https://github.com/user-attachments/assets/cdbbc694-a055-4b91-8a22-d7a86f801664" />
-<img width="913" height="911" alt="{B6B09F25-372E-45A9-A9B6-D9C894C42871}" src="https://github.com/user-attachments/assets/306b9f44-998a-43b4-88cb-fc13aeb3564e" />
+<img width="917" height="289" alt="{7058C7E8-C131-4CB0-8C55-2C6CD1670C54}" src="https://github.com/user-attachments/assets/4f43b84b-1774-4951-b40e-27b8209ee1ff" />
 
 **Resposta:** THM{THREAT-BLOCKED} 
 
