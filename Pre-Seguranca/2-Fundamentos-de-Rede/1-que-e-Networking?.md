@@ -15,7 +15,7 @@
 - Funcionamento
 - Acesso
 
-## entificando dispositivos em uma rede:
+## identificando dispositivos em uma rede:
 
 - Endereço IP
 - Endereço MAC
