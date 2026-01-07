@@ -66,18 +66,23 @@
 **1:**
 
 **O que representa a LAN?**
+
 **Resposta:** Local Area Network
 
 **Qual é o verbo dado ao trabalho que os Roteadores executam?**
+
 **Resposta:** Routing 
 
 **Qual dispositivo é usado para conectar centralmente vários dispositivos na rede local e transmitir dados para o local correto?**
+
 **Resposta:** Switch
 
 **Qual topologia é econômica para configurar?** 
+
 **Resposta:** Bus Topology
 
 **Qual topologia é cara para configurar e manter?**
+
 **Resposta:** Star Topology
 
 **Complete o laboratório interativo anexado a esta tarefa. O que a bandeira é dada no final?**
@@ -103,46 +108,60 @@ Star topology desvantagem:
 **2:**
 
 **Qual é o termo técnico para dividir uma rede em pedaços menores?**
+
 **Resposta:** Subnetting
 
 **Quantos bits estão em uma máscara de sub-rede?**
+
 **Resposta:** 32 
 
 **Qual é o alcance de uma seção (octeto) de uma máscara de sub-rede?**
+
 **Resposta:** 0-255
 
 **Qual endereço é usado para identificar o início de uma rede?**
+
+
 **Resposta:** Network Address
 
 **Qual endereço é usado para identificar dispositivos dentro de uma rede?**
+
 **Resposta:** Host Address
 
 **Qual é o nome usado para identificar o dispositivo responsável pelo envio de dados para outra rede?**
+
 **Resposta:** Default Gateway
 
 **3:**
 
 **O que significa ARP?**
+
 **Resposta:** Address Resolution Protocol
 
 **Qual categoria de Pacote ARP pergunta a um dispositivo se ele tem ou não um endereço IP específico?**
+
 **Resposta:** Request
 
 **Qual endereço é usado como identificador físico para um dispositivo em uma rede?**
+
 **Resposta:** MAC Address
 
 **Qual endereço é usado como um identificador lógico para um dispositivo em uma rede?**
+
 **Resposta:** IP Address
 
 **4:** 
 
 **Que tipo de pacote DHCP é usado por um dispositivo para recuperar um endereço IP?**
+
 **Resposta:** DHCP Discover
 
 **Que tipo de pacote DHCP um dispositivo envia uma vez que lhe foi oferecido um endereço IP pelo servidor DHCP?**
+
 **Resposta:** DHCP Request
 
 **Por fim, qual é o último pacote DHCP que é enviado para um dispositivo de um servidor DHCP?**
+
 **Resposta:**  DHCP ACK 
 
 # Aprendizado
