@@ -83,15 +83,21 @@
 **Complete o laboratório interativo anexado a esta tarefa. O que a bandeira é dada no final?**
 
 Ring topology desvantagem:
+
 <img width="925" height="873" alt="{9267CA04-5F08-4623-BC5E-0C61FC26F9CE}" src="https://github.com/user-attachments/assets/eb1ee8fa-dc79-45ab-aa70-5a368e5f28c0" />
 <img width="923" height="863" alt="{7F57D062-5646-44CB-BAAD-1FB62C81C09C}" src="https://github.com/user-attachments/assets/902eaf68-efe7-45f9-a155-a3b6c14150ad" />
+
 Bus topology desvantagem:
+
 <img width="922" height="868" alt="{9DB8FC35-8D5B-473A-8492-400B8CF120E2}" src="https://github.com/user-attachments/assets/fc29d03c-67f7-4dd8-84b9-8face26690dd" />
 <img width="905" height="872" alt="{0F0D3143-4FDC-4D43-8F50-AE78EAD381D1}" src="https://github.com/user-attachments/assets/83cec003-145b-4145-b886-4de00f8ad7a9" />
+
 Star topology desvantagem:
+
 <img width="925" height="744" alt="{A8E3414C-CF04-442A-AE2B-71745028CAFC}" src="https://github.com/user-attachments/assets/872f1efb-7015-4fcb-b32f-538aec3d50ce" />
 <img width="922" height="730" alt="{9ECE35F1-BD55-4A0D-AD23-BE997614C189}" src="https://github.com/user-attachments/assets/4fd38c52-dc1b-42bb-bd72-4abe46851ac1" />
 <img width="329" height="226" alt="{AC422A5C-A183-4DE3-A4B9-AE03B1AA76AF}" src="https://github.com/user-attachments/assets/af41e6c8-9e13-4081-ac57-06d20beafb81" />
+
 **Resposta:** THM{TOPOLOGY_FLAWS} 
 
 **2:**
